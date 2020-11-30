@@ -1,1 +1,1 @@
-worker: emailAutomate.py
+web: gunicorn app:app

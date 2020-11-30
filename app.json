@@ -1,0 +1,5 @@
+{
+  "name": "EMAIL ML ",
+  "description": "send email from model",
+  "keywords": ["python", "flask", "static"]
+}
