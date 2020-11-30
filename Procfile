@@ -1,1 +1,1 @@
-EMAIL: emailAutomate.py
+worker: emailAutomate.py
