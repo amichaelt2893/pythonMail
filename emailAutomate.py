@@ -1,3 +1,5 @@
+#!/usr/bin/env python37
+
 import numpy as np
 import pandas as pd 
 
