@@ -16,7 +16,7 @@ import tensorflow as tf
 import os
 
 
-path = '/conversation.txt'
+path = 'conversation.txt'
 #Explore the data
 text = open(path, "r").read()
 
